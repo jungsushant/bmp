@@ -1,0 +1,7 @@
+*
+!/**/
+!*.*
+.cache
+build
+config.txt
+todo.md

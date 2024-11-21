@@ -1,0 +1,57 @@
+window {
+  background-color: #3B3B3B;
+  color: white;
+}
+
+
+#center-view {
+  background-color: #3B3B3B;
+  color: white;
+}
+
+
+
+#label {
+  color: rgb(185, 185, 185);
+}
+
+.muted-label {
+  color: rgb(185, 185, 185);
+}
+
+
+#empty-wrapper-box {
+  border: 3px dotted rgb(104, 104, 104);
+  padding-top: 32px;
+  padding-bottom: 32px;
+  padding-left: 132px;
+  padding-right: 132px;
+}
+
+
+
+#editorView {
+  margin-top: 50px;
+  margin-left: 50px;
+}
+
+#editorLabel {
+  font-size: 24px;
+  margin-top: 20px;
+}
+
+#resizeLabel {
+  font-size: 20px;
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+
+#input {
+  color: black;
+}
+
+#separator {
+  background-color: white;
+  background: white;
+  margin-top: 2px;
+}
